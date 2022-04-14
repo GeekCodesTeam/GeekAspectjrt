@@ -31,5 +31,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "GeekAspectjrt"
-include ':app'
+//include ':app'
 include ':aspectjrtlib'
